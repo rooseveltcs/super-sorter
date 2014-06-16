@@ -1,0 +1,33 @@
+Ode To Code
+Nate Spencer
+public class Ode to Code {
+      public static void main(String[] args){
+               System.out.println(“Ode to Code”);
+	System.out.println(“Input thoughts, Output words”);
+ 	If (Code == Working){
+	       Keeping Going, Keep Coding;
+	}
+	Else{
+	      Keep Trying and trying;
+	}
+	System.out.println(“Takes so long compiling. The errors it gives have ceased to make sense.”);
+	System.out.println(“Debuggers fix things, but the fixes break more.”);
+	theDayIsNotOver(thereIsSoMuchMore);
+	}
+	public static void theDayIsNotOver(String thereIsSoMuchMore){
+                      while (code is not done){
+	        System.out.println(“Keep typing and typing”);
+	        (testing && running) = Progress;
+	        System.out.println(“Until finally it finally works, bugs no more”);
+	        If (you keep trying and trying eventually it will work right){
+		System.out.println(“And when it does you will smile all night”);
+	        }
+	        else if (it doesn’t){
+	            System.out.println(“Sleep on it for a night, then come back the next day and do it again”);
+	       }
+	       System.out.println(“And when it’s finished, and it finally works”);
+	       System.out.println(“Think of all  the possibilities that are unfurled”);	
+	       System.out.println(“When you print out your program and it says”);	       
+hello, world!
+	       }
+}
